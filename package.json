@@ -1,6 +1,6 @@
 {
   "name": "@maize-tech/laravel-mix-static-cache-busting",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A replacement for Laravel Mix's \"mix\" function, used for cache busting",
   "main": "src/index.js",
   "repository": {
