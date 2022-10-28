@@ -38,7 +38,7 @@ Here's an example implementation of the method:
 ```js
 let mix = require('laravel-mix');
 
-require('laravel-mix-static-cache-busting');
+require('@maize-tech/laravel-mix-static-cache-busting');
 
 mix
   // tasks that will generate a mix-manifest.json
